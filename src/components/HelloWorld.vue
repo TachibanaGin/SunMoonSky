@@ -88,7 +88,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      msg: 'SunMoonSky is Best ! Tag is v0.0.2!'
     }
   }
 }
