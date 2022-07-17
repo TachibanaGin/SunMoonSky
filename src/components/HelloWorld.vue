@@ -88,7 +88,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'SunMoonSky is Best ! Tag is v0.0.2!'
+      msg: 'SunMoonSky is Best ! Tag is v0.0.3!'
     }
   }
 }
